@@ -1,0 +1,5 @@
+2022-01-15 14:22:10,808 INFO     False GET http://localhost:8001/login/ 127.0.0.1
+2022-01-15 14:22:18,608 INFO     szymm2 POST http://localhost:8001/login 127.0.0.1
+2022-01-15 14:22:26,313 INFO     szymm2 POST http://localhost:8001/login 127.0.0.1
+2022-01-15 14:22:26,579 INFO     szymm2 GET http://localhost:8001/login_suc 127.0.0.1
+2022-01-15 14:22:28,631 INFO     szymm2 GET http://localhost:8001/users/ 127.0.0.1

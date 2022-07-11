@@ -1,0 +1,15 @@
+2022-01-29 14:01:50,703 INFO     False GET http://localhost:8001/login/ 127.0.0.1
+2022-01-29 14:02:38,001 INFO     False GET http://localhost:8001/login 127.0.0.1
+2022-01-29 14:02:44,106 INFO     jan123 POST http://localhost:8001/login 127.0.0.1
+2022-01-29 14:02:44,372 INFO     jan123 GET http://localhost:8001/login_suc 127.0.0.1
+2022-01-29 14:02:57,110 INFO     jan123 GET http://localhost:8001/buy/ 127.0.0.1
+2022-01-29 14:03:05,217 INFO     jan123 GET http://localhost:8001/buy/10 127.0.0.1
+2022-01-29 14:03:11,934 INFO     jan123 GET http://localhost:8001/select_1/10/jan123 127.0.0.1
+2022-01-29 14:03:27,735 INFO     jan123 GET http://localhost:8001/select_1/10/jan123?row=3&seat_number=5&payment_method=Card&save=save 127.0.0.1
+2022-01-29 14:03:27,994 INFO     jan123 GET http://localhost:8001/my_reservation 127.0.0.1
+2022-01-29 14:04:07,659 INFO     None GET http://localhost:8001/my_reservation/ 127.0.0.1
+2022-01-29 14:04:07,969 INFO     False GET http://localhost:8001/login 127.0.0.1
+2022-01-29 14:04:30,070 INFO     szymm2 POST http://localhost:8001/login 127.0.0.1
+2022-01-29 14:04:30,382 INFO     szymm2 GET http://localhost:8001/login_suc 127.0.0.1
+2022-01-29 14:04:44,953 INFO     szymm2 GET http://localhost:8001/users/ 127.0.0.1
+2022-01-29 14:04:57,033 INFO     szymm2 GET http://localhost:8001/sold_tickets/ 127.0.0.1
